@@ -717,7 +717,7 @@ Postman Collection
 GitHub Repository:
 
 ```text
-<YOUR_GITHUB_REPOSITORY_URL>
+https://github.com/prateekapphivey-byte/assignment
 ```
 
 ---
@@ -727,5 +727,6 @@ GitHub Repository:
 **Prateek Mishra**
 
 Full Stack Web Developer (MERN Stack)
-#   a s s i g n m e n t  
+#   a s s i g n m e n t 
+ 
  
